@@ -6,3 +6,6 @@ function lastImageSelector() {
   return $('div img:last');
 }
 
+function ninjaBabySelector() {
+  $('#')
+}
