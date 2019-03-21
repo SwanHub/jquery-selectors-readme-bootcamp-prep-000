@@ -1,2 +1,4 @@
-$("p");
+function paragraphSelector() {
+  $("p");
+}
 
